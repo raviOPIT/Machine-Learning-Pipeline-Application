@@ -52,8 +52,8 @@ The core of the application is the `MLApplication` class, which integrates all s
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/raviOPIT/Machine-Learning-Pipeline-Application.git
+   cd Machine-Learning-Pipeline-Application
    ```
 
 2. **Install Dependencies:**
