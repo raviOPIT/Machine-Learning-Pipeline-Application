@@ -1,0 +1,10 @@
+
+python app.py example.csv Transported decision_tree \
+    --random_state 42 \
+    --num_folds 5 \
+    --output_path sample_pipeline.pkl
+    
+
+in one line:
+
+python app.py example.csv Transported decision_tree --random_state 42 --num_folds 5 --output_path sample_pipeline.pkl

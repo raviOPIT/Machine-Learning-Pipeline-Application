@@ -1,0 +1,5 @@
+pycache/
+__pycache__
+.pytest_cache
+sample_pipeline.pkl
+model_pipeline.pkl
